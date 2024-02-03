@@ -1,3 +1,3 @@
 # MLmodel
 
-This is a basic classification model made using scikit-learn and Jupyter. There is also a neural network built with Tensorflow present within the code. It was taken from Kaggle.
+This code consists of two classification models made in Jupyter. One is a random forest classifier made with scikit-learn and the other is a neural network made with TensorFlow. It was taken from Kaggle.
